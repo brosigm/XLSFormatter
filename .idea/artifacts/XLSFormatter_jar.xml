@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XLSFormatter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XLSFormatter_jar</output-path>
+    <root id="archive" name="XLSFormatter.jar">
+      <element id="module-output" name="XLSFormatter" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Apanak/json-20220924.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Apanak/poi-ooxml-schemas-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Apanak/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Apanak/poi-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Apanak/poi-ooxml-3.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
